@@ -1,0 +1,41 @@
+/* Print stylesheet ensures clean output when printing focus sheets
+   and inventory. Navigation and controls are hidden, and page
+   breaks are inserted between items. */
+
+@media print {
+  body {
+    background: #fff;
+    color: #000;
+    font-size: 12pt;
+  }
+  .navbar,
+  .site-footer,
+  .search-input,
+  .filter-bar,
+  .nav-toggle,
+  .print-btn {
+    display: none !important;
+  }
+  /* Ensure inventory table header repeats on each printed page */
+  table {
+    page-break-inside: auto;
+  }
+  tr {
+    page-break-inside: avoid;
+    page-break-after: auto;
+  }
+  /* On focus sheets, break after each card */
+  .card {
+    page-break-after: always;
+    border: none;
+    box-shadow: none;
+  }
+  .card-header {
+    background: #000;
+    color: #fff;
+  }
+  /* Hide tag list in print if empty */
+  .tag-list {
+    display: none;
+  }
+}

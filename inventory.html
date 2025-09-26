@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Inventory Overview</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="assets/styles.css" />
+    <link rel="stylesheet" href="assets/print.css" media="print" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <nav class="navbar" aria-label="Main navigation">
+        <div class="nav-brand">Strategic Sales Guide</div>
+        <button class="nav-toggle" aria-controls="nav-menu" aria-expanded="false">☰</button>
+        <ul id="nav-menu" class="nav-menu">
+          <li><a href="index.html">Executive Summary</a></li>
+          <li><a href="inventory.html" aria-current="page">Inventory</a></li>
+          <li><a href="focus-sheets.html">Focus Sheets</a></li>
+          <li><a href="recommendations.html">Recommendations</a></li>
+          <li><a href="about.html">About</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main id="main" class="content-container">
+      <!-- Hero section for the inventory tool -->
+      <section class="inventory-hero">
+        <h1>Master Inventory Tool</h1>
+        <p class="page-subtitle">
+          Instantly search and filter the entire sales‑ready inventory. Click on any card to view its detailed focus sheet.
+        </p>
+        <label for="inventory-search" class="sr-only">Search inventory</label>
+        <input
+          id="inventory-search"
+          type="text"
+          placeholder="Search by make, model, or keyword…"
+          class="search-input"
+        />
+      </section>
+      <!-- Card grid for inventory -->
+      <div id="inventory-grid" class="card-grid">
+        <!-- cards inserted by JS -->
+      </div>
+    </main>
+    <footer class="site-footer">
+      <p>&copy; 2025 Strategic Sales Guide. For internal use only.</p>
+    </footer>
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>

@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>About This Guide</title>
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml" />
+    <link rel="stylesheet" href="assets/styles.css" />
+    <link rel="stylesheet" href="assets/print.css" media="print" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+    <header class="site-header">
+      <nav class="navbar" aria-label="Main navigation">
+        <div class="nav-brand">Strategic Sales Guide</div>
+        <button class="nav-toggle" aria-controls="nav-menu" aria-expanded="false">☰</button>
+        <ul id="nav-menu" class="nav-menu">
+          <li><a href="index.html">Executive Summary</a></li>
+          <li><a href="inventory.html">Inventory</a></li>
+          <li><a href="focus-sheets.html">Focus Sheets</a></li>
+          <li><a href="recommendations.html">Recommendations</a></li>
+          <li><a href="about.html" aria-current="page">About</a></li>
+        </ul>
+      </nav>
+    </header>
+    <main id="main" class="content-container">
+      <h1>About This Guide</h1>
+      <p>
+        This website is an internal digital companion to the <em>Strategic Sales
+        Guide: Inventory Analysis &amp; Customer Alignment Focus Sheets</em> report. Its
+        purpose is to make the PDF’s insights more accessible, navigable and
+        searchable for the dealership sales team. All vehicle descriptions,
+        core values and conversation starters are sourced directly from the
+        report and should be used to support consultative selling.
+      </p>
+      <p>
+        The site is intended for training and reference only; it does not
+        replace the official vehicle documentation or the need for a test drive.
+      </p>
+      <h2>Contact</h2>
+      <p>If you have questions or suggestions about this guide, please reach out.</p>
+      <form class="contact-form" onsubmit="event.preventDefault(); handleContactForm();">
+        <div class="form-group">
+          <label for="contact-name">Name</label>
+          <input id="contact-name" type="text" required />
+        </div>
+        <div class="form-group">
+          <label for="contact-email">Email</label>
+          <input id="contact-email" type="email" required />
+        </div>
+        <div class="form-group">
+          <label for="contact-team">Team</label>
+          <input id="contact-team" type="text" />
+        </div>
+        <div class="form-group">
+          <label for="contact-message">Message</label>
+          <textarea id="contact-message" rows="4" required></textarea>
+        </div>
+        <button type="submit" class="btn">Send</button>
+      </form>
+      <p id="contact-feedback" class="contact-feedback" aria-live="polite"></p>
+    </main>
+    <footer class="site-footer">
+      <p>&copy; 2025 Strategic Sales Guide. For internal use only.</p>
+    </footer>
+    <script src="assets/app.js" defer></script>
+  </body>
+</html>

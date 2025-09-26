@@ -1,0 +1,582 @@
+[
+  {
+    "stock": "KCP434",
+    "year": 2026,
+    "make": "Hyundai",
+    "model": "Palisade",
+    "trim": "Calligraphy",
+    "mileage": 30,
+    "color": "Robust Emerald Pearl",
+    "tags": ["Three-row", "Luxury", "Family", "Technology"],
+    "coreValue": "This brand-new model offers a true near-luxury experience, combining a sophisticated and upscale interior, a comprehensive suite of cutting-edge technology and three-row family practicality that directly competes with premium brands at a more accessible price point.",
+    "idealCustomer": "The \"no-compromise\" family (30s-50s) with 2-3 children who are actively cross-shopping premium brands like Acura, Lexus and Genesis. They prioritize comfort, advanced safety and the latest technology for daily commutes and family road trips but remain value-conscious.",
+    "sellingPoints": [
+      "Top-Tier Luxury Interior",
+      "Next-Generation Technology",
+      "Refined & Quiet Ride",
+      "Comprehensive Safety & Convenience"
+    ],
+    "benefits": [
+      "Luxury interior delivers a calm, premium sanctuary on every drive.",
+      "Large, curved display minimizes distractions and integrates navigation and media.",
+      "Exceptionally quiet and smooth ride for long trips.",
+      "Advanced safety systems and convenience features simplify family life and enhance safety."
+    ],
+    "conversationStarters": [
+      "Many of our clients who look at luxury SUVs are amazed to find this level of craftsmanship and technology in a Hyundai. Have you considered what you get for your money here versus the premium brands?",
+      "For your family, what's more important on a long road trip: entertainment features for the kids or genuine comfort and quiet for the adults?",
+      "Are you looking for a vehicle that doesn't just meet your family's needs, but also provides a truly premium and enjoyable driving experience for you?"
+    ]
+  },
+  {
+    "stock": "KC42A",
+    "year": 2018,
+    "make": "GMC",
+    "model": "Terrain",
+    "trim": "SLT",
+    "mileage": 63767,
+    "color": "Graphite Gray Metallic",
+    "tags": ["Compact SUV", "Premium", "Comfort"],
+    "coreValue": "A premium compact SUV that offers a quiet, comfortable and well-appointed cabin, distinctive styling and a host of user-friendly technology, making it an excellent choice for those who value refinement in their daily driver.",
+    "idealCustomer": "The professional individual, couple or small family (30s-60s) who appreciates a higher level of comfort and features than found in mainstream competitors. They may be downsizing from a larger SUV and are not willing to give up premium amenities.",
+    "sellingPoints": [
+      "Professional Grade Interior",
+      "Quiet & Composed Ride",
+      "Distinctive, Bold Styling",
+      "User-Friendly Technology"
+    ],
+    "benefits": [
+      "High-quality materials and premium feel elevate the daily commute to a first-class experience.",
+      "Quiet interior for easy conversation and reduced fatigue.",
+      "Bold styling stands out without being flashy.",
+      "Intuitive infotainment system with seamless smartphone connectivity."
+    ],
+    "conversationStarters": [
+      "Are you looking for an SUV that provides a truly quiet and comfortable ride, especially on the highway?",
+      "Many people feel that most compact SUVs look the same. Do you prefer a vehicle with more distinctive and bold styling?",
+      "How important are premium features, like leather and heated seats, in your next vehicle?"
+    ]
+  },
+  {
+    "stock": "KCD435",
+    "year": 2018,
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "trim": "SEL",
+    "mileage": 43654,
+    "color": "Pure White",
+    "tags": ["Compact SUV", "Family", "German Engineering"],
+    "coreValue": "This vehicle blends practical family utility, including an available third-row seat, with the refined driving dynamics and premium feel characteristic of German engineering, offering a more sophisticated experience than many mainstream rivals.",
+    "idealCustomer": "The practical, tech-savvy family (30s-40s) with young children. They need the flexibility of an occasional-use third row for carpools or visiting family but prefer the nimbleness and efficiency of a compact SUV for daily urban driving.",
+    "sellingPoints": [
+      "Flexible Third-Row Seating",
+      "Refined Driving Experience",
+      "Premium SEL Features",
+      "Efficient Turbocharged Power"
+    ],
+    "benefits": [
+      "Rare third-row option provides extra seating when needed without moving to a large SUV.",
+      "Solid, composed ride with German engineering inspires confidence on the road.",
+      "High-end features like a panoramic sunroof and adaptive cruise control enhance daily drives.",
+      "Turbocharged engine delivers responsive acceleration while maintaining good fuel economy."
+    ],
+    "conversationStarters": [
+      "Have you ever found yourself wishing you had a couple of extra seats for a short trip, but don't want to drive a huge three-row SUV every day?",
+      "Are you looking for a family vehicle that still feels engaging and enjoyable to drive, rather than just purely functional?",
+      "How important is having the latest technology, like a large touchscreen with navigation and advanced safety features, in your next SUV?"
+    ]
+  },
+  {
+    "stock": "KC451A",
+    "year": 2021,
+    "make": "Chevrolet",
+    "model": "Blazer",
+    "trim": "Premier",
+    "mileage": null,
+    "color": null,
+    "tags": ["Sporty", "Crossover"],
+    "coreValue": "Offers a compelling combination of aggressive, Camaro‑inspired styling and a comfortable, feature‑rich crossover experience. The Premier trim, with its standard V6 engine, delivers strong performance to match its sporty looks.",
+    "idealCustomer": "The style‑conscious individual or couple (30s-50s), possibly with older children, who want the practicality of an SUV but desire a vehicle with a sporty and aggressive design. They are looking for a daily driver that is both fun and functional.",
+    "sellingPoints": [
+      "Head‑Turning, Sporty Design",
+      "Powerful V6 Performance",
+      "Premium and Tech‑Forward Interior",
+      "Comfortable and Composed Handling"
+    ],
+    "benefits": [
+      "Bold, sports‑car‑inspired design helps the driver stand out on the road.",
+      "V6 engine provides effortless acceleration and towing capability.",
+      "High-end interior features like perforated leather seating and a Bose audio system elevate comfort.",
+      "Smooth ride balances sporty handling with everyday comfort."
+    ],
+    "conversationStarters": [
+      "Are you looking for an SUV that has a bit more personality and style than the typical family crossover?",
+      "How important is having strong acceleration and performance in your daily driver?",
+      "Do you appreciate a vehicle that combines a bold, sporty exterior with a comfortable and luxurious interior?"
+    ]
+  },
+  {
+    "stock": "P340B",
+    "year": 2020,
+    "make": "Nissan",
+    "model": "Rogue",
+    "trim": "SV",
+    "mileage": 100763,
+    "color": "Black",
+    "tags": ["Compact SUV", "Value", "Safety"],
+    "coreValue": "A proven and reliable compact SUV that offers a comfortable ride, a spacious and versatile interior, and a strong suite of standard safety features, making it an excellent value for a budget‑conscious family or high‑mileage commuter.",
+    "idealCustomer": "The pragmatic and value‑driven buyer—such as a young family, a commuter or anyone on a strict budget. Their primary concerns are reliability, safety, interior space and low overall cost of ownership.",
+    "sellingPoints": [
+      "Spacious & Versatile Interior",
+      "Comfort‑Focused Ride",
+      "Comprehensive Safety Features",
+      "Excellent Value Proposition"
+    ],
+    "benefits": [
+      "Generous cargo capacity and flexible storage make hauling gear or groceries easy.",
+      "Smooth suspension tuning provides a relaxing driving experience.",
+      "Advanced safety tech like automatic emergency braking and blind‑spot warning offers peace of mind.",
+      "High‑mileage example provides modern features at a lower price point."
+    ],
+    "conversationStarters": [
+      "Are you looking for a vehicle that offers the maximum amount of space and comfort for your budget?",
+      "How important is having advanced safety features, like blind‑spot monitoring, in your next vehicle?",
+      "For your daily driving, what do you value more: sporty handling or a smooth, comfortable ride?"
+    ]
+  },
+  {
+    "stock": "KC868",
+    "year": 2016,
+    "make": "Ford",
+    "model": "Escape",
+    "trim": "SE",
+    "mileage": 113306,
+    "color": "White Platinum Metallic Tri-Coat",
+    "tags": ["Compact SUV", "Fun-to-drive"],
+    "coreValue": "A compact crossover that stands out with its agile, car‑like handling, a high‑quality cabin and the introduction of the user‑friendly SYNC 3 infotainment system, offering a more engaging driving experience than many of its rivals.",
+    "idealCustomer": "The value‑driven buyer who doesn't want to sacrifice driving enjoyment for practicality. This could be a young professional, a couple or a small family who appreciates a responsive and fun‑to‑drive vehicle for their daily needs.",
+    "sellingPoints": [
+      "Athletic Driving Dynamics",
+      "Upgraded SYNC 3 Infotainment",
+      "Premium Interior Feel",
+      "Versatile Cargo Space"
+    ],
+    "benefits": [
+      "Sharp steering and agile handling make every commute enjoyable.",
+      "Responsive, smartphone‑like SYNC 3 system is intuitive and fast.",
+      "High‑quality materials give the cabin an upscale feel unexpected in this class.",
+      "Split‑folding rear seats create a large, flat cargo area for greater utility."
+    ],
+    "conversationStarters": [
+      "Do you find that most SUVs you've driven feel a bit boring? Are you looking for something that's more engaging and fun?",
+      "How important is it to have an infotainment system that is simple, fast and easy to use?",
+      "Are you looking for a vehicle that balances the practicality you need with a driving experience you'll actually enjoy?"
+    ]
+  },
+  {
+    "stock": "RB332A",
+    "year": 2014,
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "trim": "LT",
+    "mileage": 67373,
+    "color": "Crystal Red Tintcoat",
+    "tags": ["Compact SUV", "Comfort"],
+    "coreValue": "A reliable and exceptionally quiet compact SUV that prioritizes passenger comfort with a spacious, sliding second‑row seat and a smooth highway ride, making it an ideal choice for families and commuters.",
+    "idealCustomer": "The pragmatic buyer or family (30s-60s) whose top priorities are a comfortable and quiet ride, interior space and safety. They value practical features over sporty performance and are looking for a dependable vehicle for daily use and family trips.",
+    "sellingPoints": [
+      "Exceptionally Quiet Cabin",
+      "Spacious & Flexible Rear Seating",
+      "Comfortable Highway Ride",
+      "Proven Reliability"
+    ],
+    "benefits": [
+      "Sound‑deadening materials make the interior whisper quiet, enhancing relaxation.",
+      "Sliding rear seat lets you prioritise passenger legroom or cargo space on demand.",
+      "Soft suspension delivers a smooth, stable ride even on long journeys.",
+      "Well‑regarded powertrain promises durability and ease of maintenance."
+    ],
+    "conversationStarters": [
+      "When you're driving on the highway, how much do you notice road and wind noise? Are you looking for a quieter experience?",
+      "Do you often find yourself choosing between carrying passengers comfortably or having enough cargo space? This vehicle offers a unique solution.",
+      "What's more important in your daily driving: a sporty, firm ride or a smooth, comfortable and relaxing one?"
+    ]
+  },
+  {
+    "stock": "KC852",
+    "year": 2022,
+    "make": "Hyundai",
+    "model": "Palisade",
+    "trim": "SEL",
+    "mileage": 54300,
+    "color": "Typhoon Silver",
+    "tags": ["Three-row", "Family", "Value"],
+    "coreValue": "Offers a significant portion of the top-tier Calligraphy's luxury and technology, including available eight‑passenger seating and premium convenience features, making it the smartest buy in the Palisade lineup for value‑conscious families.",
+    "idealCustomer": "The savvy family buyer (30s-40s) who has done their research. They want a three‑row SUV that feels premium and is packed with modern technology but are focused on getting the best possible value for their money.",
+    "sellingPoints": [
+      "The Smart‑Buy Trim",
+      "Smooth V6 Power",
+      "Standard Advanced Safety",
+      "Upscale and Spacious Cabin"
+    ],
+    "benefits": [
+      "Balance of features and price delivers high-value comfort and convenience.",
+      "291‑hp V6 and refined 8‑speed automatic provide confident, quiet acceleration.",
+      "Comes with Hyundai SmartSense safety suite as standard equipment.",
+      "High‑quality interior materials and room for up to eight make long journeys pleasant."
+    ],
+    "conversationStarters": [
+      "Are you looking for a three-row SUV that gives you that premium, luxury feel without the luxury price tag?",
+      "Many families are looking for the perfect balance of features and value. Is that a priority for you?",
+      "When it comes to safety, do you believe the most important features should come standard?"
+    ]
+  },
+  {
+    "stock": "KCD432",
+    "year": 2022,
+    "make": "Mitsubishi",
+    "model": "Outlander",
+    "trim": "SEL",
+    "mileage": 19215,
+    "color": "Cosmic Blue Metallic",
+    "tags": ["Compact SUV", "Three-row", "Value"],
+    "coreValue": "A boldly styled compact SUV that uniquely offers standard three‑row seating, a well‑equipped and modern interior and the confidence of a long powertrain warranty, representing a strong value for families needing extra flexibility.",
+    "idealCustomer": "The value‑focused young family (20s-30s) who needs the occasional flexibility of a seventh seat for carpooling but wants the fuel economy and price point of a compact SUV. They are attracted to modern styling and a feature‑rich vehicle.",
+    "sellingPoints": [
+      "Standard 7‑Passenger Seating",
+      "Striking, Modern Design",
+      "Premium SEL Interior",
+      "Low Mileage & Warranty"
+    ],
+    "benefits": [
+      "Flexibility to carry extra passengers without owning a large SUV.",
+      "Bold redesign stands out with futuristic exterior styling.",
+      "SEL trim adds leather, heated seats and panoramic sunroof for comfort and luxury.",
+      "Low miles and Mitsubishi’s long powertrain warranty provide peace of mind."
+    ],
+    "conversationStarters": [
+      "How often do you find yourself needing just one or two extra seats for short trips? This could be the perfect solution.",
+      "Are you looking for a vehicle that comes loaded with features like leather and a panoramic sunroof, but still represents a great value?",
+      "Do you prefer a vehicle with a bold, modern design that stands out from the crowd?"
+    ]
+  },
+  {
+    "stock": "KC894A",
+    "year": 2021,
+    "make": "Kia",
+    "model": "Soul",
+    "trim": "S",
+    "mileage": 22020,
+    "color": "Mars Orange",
+    "tags": ["Crossover", "Unique", "Versatile"],
+    "coreValue": "An iconic and practical vehicle that combines the interior space of a small SUV with the efficiency of a compact car, all wrapped in a uniquely stylish package. The S trim adds key safety and convenience features.",
+    "idealCustomer": "The expressive individual, from a student to an active retiree, who values practicality, style and technology. They need a versatile vehicle for city driving and weekend trips that reflects their personality.",
+    "sellingPoints": [
+      "Unmatched Practicality",
+      "Standout Style",
+      "Efficient and Reliable Powertrain",
+      "Desirable S Trim Features"
+    ],
+    "benefits": [
+      "Boxy shape creates a cavernous interior with huge cargo capacity and headroom.",
+      "Iconic design and vibrant colour help owners express their individuality.",
+      "2.0L engine paired with IVT provides responsive performance and excellent fuel economy.",
+      "S trim adds forward collision avoidance, blind‑spot warning and premium seating materials."
+    ],
+    "conversationStarters": [
+      "Are you looking for a vehicle that's as practical and versatile as an SUV but more efficient and fun to drive?",
+      "Do you want a car that has a unique style and personality, not something that looks like everything else on the road?",
+      "How important is having a large, flexible cargo area for your lifestyle?"
+    ]
+  },
+  {
+    "stock": "KCD433",
+    "year": 2019,
+    "make": "Toyota",
+    "model": "4Runner",
+    "trim": "SR5",
+    "mileage": 82546,
+    "color": "Midnight Black Metallic",
+    "tags": ["Off-road", "Body-on-frame", "Adventure"],
+    "coreValue": "A legendary, body‑on‑frame SUV that offers uncompromising off‑road capability, bulletproof reliability and class‑leading resale value. It is the authentic choice for true adventure‑seekers.",
+    "idealCustomer": "The outdoor enthusiast, adventurer or family (30s-50s) who values ruggedness and long‑term durability above all else. They need a vehicle that can confidently handle trails, snow and rough terrain while still serving as a practical daily driver.",
+    "sellingPoints": [
+      "Legendary Off‑Road Prowess",
+      "Bulletproof Reliability",
+      "Exceptional Resale Value",
+      "Practical and Spacious Interior"
+    ],
+    "benefits": [
+      "Body‑on‑frame construction and robust 4WD system conquer trails, snow and rough terrain.",
+      "Durable 4.0L V6 and 5‑speed automatic are known to last hundreds of thousands of miles.",
+      "Holds its value better than almost any other SUV on the market.",
+      "Large cargo area and simple controls make daily use easy even in work gloves."
+    ],
+    "conversationStarters": [
+      "What kind of outdoor activities or adventures are you looking forward to that require a truly capable vehicle?",
+      "How important is it for you to own a vehicle with a proven, decades‑long reputation for reliability and durability?",
+      "Are you familiar with how well the 4Runner holds its value compared to other SUVs?"
+    ]
+  },
+  {
+    "stock": "KCD430",
+    "year": 2019,
+    "make": "Toyota",
+    "model": "RAV4 Hybrid",
+    "trim": "XLE",
+    "mileage": 77661,
+    "color": "Magnetic Gray Metallic",
+    "tags": ["Hybrid", "Compact SUV", "AWD"],
+    "coreValue": "The benchmark for compact hybrid SUVs, offering an exceptional blend of fuel efficiency, standard all‑wheel drive, Toyota's renowned reliability and a practical, well‑equipped interior.",
+    "idealCustomer": "The pragmatic and eco‑conscious buyer (of any age) who prioritizes low running costs, safety and all‑weather capability. They are looking for a smart, long‑term investment that is both practical for daily life and efficient.",
+    "sellingPoints": [
+      "Class‑Leading Fuel Economy",
+      "Standard Electronic On‑Demand AWD",
+      "Toyota Safety Sense 2.0",
+      "Renowned Toyota Reliability"
+    ],
+    "benefits": [
+      "EPA‑estimated 40 MPG combined saves money at the pump.",
+      "Intelligent AWD system provides confident traction in bad weather without sacrificing efficiency.",
+      "Full suite of advanced safety features works to keep occupants safe.",
+      "Built on Toyota’s reputation for quality and longevity for low‑maintenance ownership."
+    ],
+    "conversationStarters": [
+      "Are you tired of fluctuating gas prices? How much would you save each month if you could get 40 miles per gallon?",
+      "Is having the security of all‑wheel drive for rain or snow important to you?",
+      "When you think about long‑term ownership, are reliability and low maintenance costs at the top of your list?"
+    ]
+  },
+  {
+    "stock": "KCD431",
+    "year": 2018,
+    "make": "Honda",
+    "model": "CR-V",
+    "trim": "EX",
+    "mileage": 77476,
+    "color": "Crystal Black Pearl",
+    "tags": ["Compact SUV", "Practical", "Reliable"],
+    "coreValue": "A leader in the compact SUV class that excels in practicality, offering a cavernous and user‑friendly interior, an efficient turbocharged engine and Honda's sterling reputation for reliability and safety.",
+    "idealCustomer": "The sensible and practical buyer or family (30s-60s) who needs a versatile, dependable and safe vehicle. They value functionality, interior space and long‑term, low‑cost ownership above all else.",
+    "sellingPoints": [
+      "Massive Interior & Cargo Space",
+      "Efficient Turbocharged Engine",
+      "Honda Sensing® Safety Suite",
+      "Top‑Tier Reliability"
+    ],
+    "benefits": [
+      "Huge cargo area and easy‑fold rear seats make loading simple.",
+      "1.5L turbo engine provides peppy acceleration and excellent fuel economy.",
+      "Standard suite of safety technologies helps prevent collisions and reduces driver stress.",
+      "Renowned Honda reliability translates to years of trouble‑free ownership."
+    ],
+    "conversationStarters": [
+      "For your lifestyle, what's more important: having the most cargo space possible or having the sportiest handling?",
+      "Are you looking for a vehicle that is known for being incredibly safe and reliable?",
+      "How much do you value practical, user‑friendly features that make your daily life easier?"
+    ]
+  },
+  {
+    "stock": "KC798A",
+    "year": 2021,
+    "make": "GMC",
+    "model": "Yukon XL",
+    "trim": "Denali",
+    "mileage": 83822,
+    "color": "Onyx Black",
+    "tags": ["Full-size", "Luxury", "Family"],
+    "coreValue": "The pinnacle of full‑size SUVs, the Yukon XL Denali offers an unparalleled combination of maximum passenger and cargo space, a powerful V8 engine and a truly first‑class luxury experience with exclusive styling and premium materials.",
+    "idealCustomer": "The large, affluent family, executive or business owner who requires maximum capacity and capability without compromising on luxury and comfort. They need a vehicle that can transport a large group in style, tow a significant trailer and project an image of success.",
+    "sellingPoints": [
+      "Unmatched Space and Utility",
+      "Denali‑Exclusive Luxury",
+      "Commanding V8 Power",
+      "Advanced Technology & Ride Comfort"
+    ],
+    "benefits": [
+      "Cavernous space seats up to eight with ample cargo room even behind the third row.",
+      "Premium materials, real wood trim and heated/ventilated seats create a first‑class environment.",
+      "6.2L V8 engine provides effortless towing and confident acceleration.",
+      "Independent rear suspension and optional Air Ride Adaptive Suspension deliver a remarkably smooth ride for such a large vehicle."
+    ],
+    "conversationStarters": [
+      "Are you looking for a vehicle that offers the absolute maximum amount of space for both passengers and cargo?",
+      "Do you need the capability to tow a heavy trailer or boat without sacrificing a luxurious and comfortable ride?",
+      "Is having a true first‑class experience, with the highest levels of luxury and technology, a priority for you?"
+    ]
+  },
+  {
+    "stock": "479A",
+    "year": 2022,
+    "make": "Kia",
+    "model": "Soul",
+    "trim": "GT-Line",
+    "mileage": 24235,
+    "color": "Snow White Pearl",
+    "tags": ["Crossover", "Sporty", "Tech"],
+    "coreValue": "Combines the immense practicality of the Soul's design with a sporty, aggressive appearance package and an upgraded, tech‑focused interior, appealing to the style‑conscious buyer who still values function.",
+    "idealCustomer": "The young, tech‑savvy urban driver (20s-30s) who wants a vehicle with a distinct personality. They are drawn to the sporty aesthetics of the GT‑Line and appreciate features like the large touchscreen and advanced connectivity.",
+    "sellingPoints": [
+      "Sporty GT‑Line Aesthetics",
+      "Large 10.25‑inch Touchscreen",
+      "Efficient & Peppy Performance",
+      "SUV‑Like Versatility"
+    ],
+    "benefits": [
+      "Unique bumpers, red accents and flat‑bottom steering wheel give the Soul an aggressive look.",
+      "Huge, high‑resolution touchscreen with navigation and multi‑device connectivity anchors the modern interior.",
+      "2.0L engine and IVT provide responsive acceleration and up to 33 MPG highway.",
+      "High driving position and flexible cargo area offer SUV-like utility in a compact footprint."
+    ],
+    "conversationStarters": [
+      "Do you like the practicality of the Soul but wish it had a sportier, more aggressive look?",
+      "How important is it to have the latest technology, like a massive touchscreen with built-in navigation?",
+      "Are you looking for a vehicle that's easy to park and maneuver in the city, but still has a ton of room inside?"
+    ]
+  },
+  {
+    "stock": "106A",
+    "year": 2021,
+    "make": "Hyundai",
+    "model": "Santa Fe",
+    "trim": "SEL",
+    "mileage": 73002,
+    "color": "Twilight Black",
+    "tags": ["Midsize SUV", "Modern", "Safety"],
+    "coreValue": "A freshly redesigned two‑row SUV that offers a bold, upscale design, a premium and spacious interior and a comprehensive suite of standard safety and technology features, representing an outstanding value in the midsize SUV segment.",
+    "idealCustomer": "The modern family or professional couple (30s-50s) who wants a stylish, safe and feature‑rich SUV. They appreciate high‑end design and technology but are focused on the practicality and value offered by a two‑row vehicle.",
+    "sellingPoints": [
+      "Striking Redesigned Exterior",
+      "High‑Tech, Premium Cabin",
+      "Comprehensive Hyundai SmartSense",
+      "Smooth and Comfortable Ride"
+    ],
+    "benefits": [
+      "Bold new grille and T‑shaped LED daytime running lights create a premium look.",
+      "8‑inch touchscreen with wireless Apple CarPlay/Android Auto and heated front seats elevate comfort.",
+      "Safety suite includes Blind‑Spot Collision‑Avoidance Assist and Rear Cross‑Traffic Collision‑Avoidance Assist as standard.",
+      "Quiet, refined ride makes daily commutes and long journeys relaxing."
+    ],
+    "conversationStarters": [
+      "Are you looking for an SUV with a really bold and upscale design that stands out?",
+      "When it comes to technology, is having a simple, wireless connection for your phone a must-have feature for you?",
+      "Do you believe that the most important safety features should be standard, not part of an expensive options package?"
+    ]
+  },
+  {
+    "stock": "842A",
+    "year": 2013,
+    "make": "Toyota",
+    "model": "Camry",
+    "trim": "XLE",
+    "mileage": 81250,
+    "color": "Attitude Black Metallic",
+    "tags": ["Sedan", "Reliability", "Comfort"],
+    "coreValue": "The benchmark for midsize sedan reliability, the Camry XLE offers a near‑luxury experience with a supremely comfortable and quiet ride, a spacious cabin and the unparalleled peace of mind that comes with Toyota's reputation for longevity.",
+    "idealCustomer": "The pragmatic and sensible buyer (of any age) whose top priorities are reliability, comfort and low cost of ownership. They are looking for a safe, dependable and comfortable car that will provide years of trouble‑free service.",
+    "sellingPoints": [
+      "Legendary Reliability",
+      "XLE Luxury and Comfort",
+      "Spacious and Quiet Cabin",
+      "Excellent Safety Ratings"
+    ],
+    "benefits": [
+      "Proven powertrain and durability deliver years of low‑maintenance ownership.",
+      "Top-tier XLE trim adds dual-zone climate control, power seats and premium interior materials.",
+      "Generous rear legroom and extremely quiet cabin make long trips comfortable for all occupants.",
+      "10 standard airbags and top crash-test ratings provide peace of mind."
+    ],
+    "conversationStarters": [
+      "When you think about owning a car for the next five years or more, what is the most important quality to you?",
+      "Are you looking for a car that provides a truly quiet, comfortable and relaxing driving experience?",
+      "Is having a proven track record of reliability and low ownership costs a key factor in your decision?"
+    ]
+  },
+  {
+    "stock": "245A",
+    "year": 2024,
+    "make": "Hyundai",
+    "model": "Santa Cruz",
+    "trim": "SEL",
+    "mileage": 23919,
+    "color": "Blue Stone",
+    "tags": ["Sport Adventure Vehicle", "Versatile", "Crossover"],
+    "coreValue": "A unique \"Sport Adventure Vehicle\" that perfectly blends the comfortable ride and modern interior of a crossover SUV with the versatile utility of an open cargo bed, creating a stylish and practical solution for urban adventurers.",
+    "idealCustomer": "The active lifestyle enthusiast (20s-40s) who lives in a city or suburb. They need a vehicle that is comfortable and efficient for daily commuting but want the utility to haul dirty gear like mountain bikes, surfboards or gardening supplies on the weekend.",
+    "sellingPoints": [
+      "The Best of Both Worlds",
+      "Versatile and Secure Cargo Bed",
+      "Stylish, Modern Interior",
+      "Comprehensive Safety Features"
+    ],
+    "benefits": [
+      "Drives like a refined SUV but offers the utility of a small truck with a 4.3‑foot bed.",
+      "Lockable in‑bed trunk, available tonneau cover and adjustable tie‑downs keep gear secure and organized.",
+      "Interior matches the Tucson in quality and technology, with heated seats and power driver's seat on SEL trim.",
+      "Hyundai SmartSense safety suite provides advanced collision‑avoidance features."
+    ],
+    "conversationStarters": [
+      "What kind of hobbies or activities do you have where you're often putting dirty or bulky gear inside your car?",
+      "Have you ever wanted the utility of a truck but were put off by the rough ride and poor fuel economy?",
+      "Are you looking for a vehicle that's as stylish and comfortable as an SUV but offers more versatility for your active lifestyle?"
+    ]
+  },
+  {
+    "stock": "473B",
+    "year": 2014,
+    "make": "Chevrolet",
+    "model": "Cruze",
+    "trim": "1LT",
+    "mileage": 125007,
+    "color": "Champagne Silver Metallic",
+    "tags": ["Sedan", "Budget", "Efficient"],
+    "coreValue": "An extremely affordable and fuel‑efficient compact sedan that offers a quiet, comfortable ride and a more substantial feel than many of its rivals, making it a smart choice for the budget‑first buyer.",
+    "idealCustomer": "The student, first‑time car buyer or commuter on a very strict budget. Their primary goal is to find reliable, low‑cost transportation with good fuel economy.",
+    "sellingPoints": [
+      "Efficient Turbocharged Engine",
+      "Quiet and Composed Ride",
+      "Excellent Safety Ratings",
+      "Outstanding Affordability"
+    ],
+    "benefits": [
+      "1.4L turbo engine provides lively performance while achieving up to 38 MPG highway.",
+      "Smooth, quiet ride feels like a larger, more expensive car.",
+      "Equipped with 10 airbags and top safety scores for peace of mind.",
+      "High mileage but well‑maintained car offers dependable transportation at an extremely low price."
+    ],
+    "conversationStarters": [
+      "Are you looking for a safe, reliable car with the lowest possible monthly payment?",
+      "How important is fuel economy to you for your daily driving?",
+      "Would you appreciate a compact car that feels solid and quiet, more like a midsize sedan?"
+    ]
+  },
+  {
+    "stock": "497A",
+    "year": 2019,
+    "make": "Cadillac",
+    "model": "XT4",
+    "trim": "Premium Luxury",
+    "mileage": 59212,
+    "color": "Stellar Black Metallic",
+    "tags": ["Luxury", "Compact SUV", "Premium"],
+    "coreValue": "A compact luxury SUV that delivers distinctive Cadillac styling, a comfortable and feature‑rich cabin and a smooth, responsive powertrain, offering an accessible entry into the premium crossover segment.",
+    "idealCustomer": "The brand‑conscious professional or couple (30s-60s) who desires the prestige and style of the Cadillac brand. They value a comfortable ride, a luxurious interior and modern technology in their daily driver.",
+    "sellingPoints": [
+      "Distinctive Cadillac Design",
+      "Premium Luxury Interior",
+      "Responsive Turbo Power",
+      "Class‑Leading Rear Legroom"
+    ],
+    "benefits": [
+      "Sharp body lines and vertical LED lighting create unmistakable Cadillac style.",
+      "Leather seating surfaces, ambient lighting and authentic trim create an upscale cabin.",
+      "2.0L turbo engine delivers 258 lb‑ft of torque for brisk acceleration.",
+      "Best‑in‑class rear legroom ensures rear passengers ride in comfort."
+    ],
+    "conversationStarters": [
+      "Are you looking for a luxury vehicle that combines iconic American style with modern technology and comfort?",
+      "How important is it that your rear-seat passengers have plenty of space to be comfortable on longer trips?",
+      "Do you appreciate a vehicle that provides a smooth, quiet and powerful driving experience for your daily commute?"
+    ]
+  }
+]

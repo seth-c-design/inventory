@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" aria-hidden="true">
+  <!-- Background shape using the primary brand colour -->
+  <rect width="64" height="64" rx="12" fill="#00796b" />
+  <!-- Monogram letters. The font family falls back to system sans-serif for broad support -->
+  <text x="50%" y="50%" dy="0.25em" text-anchor="middle" font-size="32" font-family="Inter, Arial, sans-serif" fill="#ffffff" font-weight="bold">SG</text>
+</svg>
