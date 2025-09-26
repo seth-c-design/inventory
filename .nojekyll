@@ -1,0 +1,5 @@
+# add a marker file that tells GitHub Pages "serve static files, don't run Jekyll"
+echo > .nojekyll
+git add .nojekyll
+git commit -m "chore: disable Jekyll for static site"
+git push
